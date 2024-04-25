@@ -1,0 +1,6 @@
+name: Magicals
+version: '${project.version}'
+main: dev.subscripted.magicals.Main
+api-version: '1.20'
+commands:
+  spell:
